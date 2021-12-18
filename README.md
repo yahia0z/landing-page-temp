@@ -4,7 +4,6 @@
 
 * [Description](#description)
 * [Setup and Run](#setup-and-run)
-* [Resources](#resources)
 
 ## Description
 
@@ -28,11 +27,3 @@
 
 After **downloading** the project files, **open** the "index.html" file in your browser.
 
-## Resources
-
-The following resources were used for research and guidance
-
-* MDN Web Docs [https://developer.mozilla.org/en-US/docs/Web]
-* W3schools [https://www.w3schools.com/howto/default.asp]
-* Stack Overflow [https://stackoverflow.com/]
-* GitHub [https://github.com/]
